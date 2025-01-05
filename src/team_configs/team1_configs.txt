@@ -1,0 +1,69 @@
+Dragonite @ Leftovers
+Ability: Multiscale
+Level: 50
+Tera Type: Normal
+EVs: 244 HP / 4 Atk / 140 Def / 116 SpD / 4 Spe
+Adamant Nature
+- Earthquake
+- Extreme Speed
+- Encore
+- Roost
+
+Garchomp @ Sitrus Berry
+Ability: Rough Skin
+Level: 50
+Tera Type: Fairy
+EVs: 204 HP / 92 SpD / 212 Spe
+Jolly Nature
+- Earthquake
+- Stealth Rock
+- Rock Tomb
+- Spikes
+
+Gholdengo @ Choice Specs
+Ability: Good as Gold
+Level: 50
+Tera Type: Steel
+EVs: 20 HP / 4 Def / 212 SpA / 44 SpD / 228 Spe
+Modest Nature
+IVs: 0 Atk
+- Trick
+- Shadow Ball
+- Trick
+- Make It Rain
+
+Archaludon @ Air Balloon
+Ability: Stamina
+Level: 50
+Tera Type: Steel
+EVs: 188 HP / 4 Def / 196 SpA / 12 SpD / 108 Spe
+Modest Nature
+IVs: 0 Atk
+- Body Press
+- Thunderbolt
+- Flash Cannon
+- Roar
+
+Ursaluna-Bloodmoon @ Assault Vest
+Ability: Mind's Eye
+Level: 50
+Tera Type: Fairy
+EVs: 196 HP / 4 Def / 204 SpA / 100 SpD / 4 Spe
+Modest Nature
+IVs: 0 Atk
+- Blood Moon
+- Moonblast
+- Earth Power
+- Vacuum Wave
+
+Meowscarada @ Focus Sash
+Ability: Overgrow
+Level: 50
+Tera Type: Dark
+EVs: 252 Atk / 4 SpD / 252 Spe
+Jolly Nature
+- Toxic Spikes
+- Taunt
+- Sucker Punch
+- Knock Off
+
