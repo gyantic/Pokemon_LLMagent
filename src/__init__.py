@@ -6,7 +6,6 @@ import src.exceptions as exceptions
 import src.player as player
 import src.client as ps_client
 import src.stats as stats
-import src.teambuilder as teambuilder
 from src.data import gen_data, to_id_str
 from src.exceptions import ShowdownException
 from src.client import AccountConfiguration
@@ -37,6 +36,5 @@ __all__ = [
     "player",
     "ps_client",
     "stats",
-    "teambuilder",
     "to_id_str",
 ]

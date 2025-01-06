@@ -1,16 +1,12 @@
-import json
-'''preserve result of battle'''
+
+from typing import List, Dict, Any
 
 class BattleHistory:
-  def __init__(self, filepath='battle_history.json'):
-    self.filepath = filepath
-    self.history = self.load_history
+    def __init__(self):
+        self.history: List[Dict[str, Any]] = []
 
-  def load_history(self):
-    try:
-      with open(self.filepath, 'r') as f:
-        return json.load(f)
-    except FileNotFoundError:
-        return []
+    def add_event(self, event: Dict[str, Any]):
+        self.history.append(event)
 
-  def add_entry():
+    def get_history(self) -> List[Dict[str, Any]]:
+        return self.history
